@@ -1,1 +1,3 @@
-This is python script extracts the release year about all the movies that you have listed in the excel file and writes them in the column "Year".
+This Python script reads movie titles from an excel file and automatically retrieves and writes the release year using the IMDB API.
+
+Libraries: IMDbPY, pandas, tqdm

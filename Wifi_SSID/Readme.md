@@ -1,1 +1,2 @@
-This Python program lists all the Wifi SSIDs saved on the computer and asks the user for input which SSID to check what the password is. 
+This Python script lists all saved Wi-fi SSIDs and their passwords using CMD commands in Windows. 
+Libraries: subprocess, regex

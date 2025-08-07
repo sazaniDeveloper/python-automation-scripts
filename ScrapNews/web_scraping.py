@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 
 app = Flask(__name__)
 
-class print_Response():
+class printResponse:
 
     def __init__(self, url):
         self.url = url
@@ -27,12 +27,11 @@ class print_Response():
         return list(set(h3))
     
 
-shqip = print_Response("https://shqiptarja.com/home")
-shqip.response()
-
-@app.route("/")
-def index():
-   return jsonify(shqip.scrap_headers("VIDEO"))
+@app.route("/<keyword>")
+def index(keyword):
+   shqip = printResponse("https://shqiptarja.com/home")
+   shqip.response()
+   return jsonify(shqip.scrap_headers(keyword))
 
 if __name__=="__main__":
     app.run()

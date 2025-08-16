@@ -12,4 +12,11 @@ Libraries:
 - logging
 - typing
 
+Instructions:
+1. git clone https://github.com/sazaniDeveloper/python-automation-scripts.git
+2. cd python-automation-scripts
+3. docker build -t real-estate .
+4. docker run -p 8000:8000 real-estate-scraper
+5. Run the API through localhost:8000
+
 

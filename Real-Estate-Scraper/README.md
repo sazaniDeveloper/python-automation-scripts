@@ -19,4 +19,3 @@ Instructions:
 4. docker run -p 8000:8000 real-estate-scraper
 5. Run the API through localhost:8000
 
-

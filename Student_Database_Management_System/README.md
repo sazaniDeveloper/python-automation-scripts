@@ -19,6 +19,9 @@ Libraries used:
 3. Go to main.py
 4. Run the project by pressing F5 or by typing python main.py in the terminal
 
+
+
+
 ## Instructions
 
 ### Add Student

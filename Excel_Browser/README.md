@@ -20,5 +20,5 @@ pip install -r requirements.txt
 python manage.py runserver 8080
 
 ## Instructions
-1.Click on the Upload Button to select an Excel file. 
-2.Click Submit to render the table of the Excel file in the browser.
+1. Click on the Upload Button to select an Excel file. 
+2. Click Submit to render the table of the Excel file in the browser.

@@ -20,14 +20,15 @@ Libraries used:
 
 ## Example
 Before the script:
-###Title
-Madagascar
-The Avengers
-Forrest Gump
+| Title          |
+|----------------|
+| Madagascar     |
+| The Avengers   |
+| Forrest Gump   |
 
 After the script:
-###Title       ###Year
-Madagascar     2005
-The Avengers   2012
-Forrest Gump   1994
-
+| Title          | Year |
+|----------------|------|
+| Madagascar     | 2005 |
+| The Avengers   | 2012 |
+| Forrest Gump   | 1994 |

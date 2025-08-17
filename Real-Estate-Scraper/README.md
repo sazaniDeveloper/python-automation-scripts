@@ -34,6 +34,7 @@ pip install -r requirements.txt
 **/properties**
 
 Scrape multiple properties with filters.  
+
 **Parameters:** 
 - type: `rent` or `sale`  
 - city: e.g., `Tirana`  

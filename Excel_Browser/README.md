@@ -1,5 +1,12 @@
-# Excel-to-Browser (Django) 
+# Excel-to-Browser (Django) 📊
 A Django-based application that takes an Excel file as input to render its values as a table in the browser.
+
+Libraries Used:
+
+- Django
+- pandas
+- openpyxl
+- jinja
 
 
 ## Install

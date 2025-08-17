@@ -1,0 +1,3 @@
+pyodbc
+tkcalendar
+python-dotenv

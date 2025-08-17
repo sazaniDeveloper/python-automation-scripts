@@ -1,4 +1,5 @@
-#Real-Estate Scraper API 🏠
+## Real-Estate Scraper API 🏠
+
 A FastAPI web scraper for real-estate properties from a website. You can filter properties by type of property, city, zone, bedrooms, etc.
 
 Features:
@@ -31,6 +32,7 @@ pip install -r requirements.txt
 ## Instructions
 
 **/properties**
+
 Scrape multiple properties with filters.  
 **Parameters:** 
 - type: `rent` or `sale`  
@@ -43,6 +45,7 @@ Example:
 /properties/type:rent/city:Tirana/zone:Ali+Demi/bedrooms:2/price_min:500/price_max:800/size_min:50/size_max:90
 
 **/property**
+
 Scrape details of a single property by URL.  
 Example:
 property_ = Scrap_Estate("https://www.century21albania.com/property/4836239/japim-me-qira-apartament-2-1-post-parkimi-gold120722.html")

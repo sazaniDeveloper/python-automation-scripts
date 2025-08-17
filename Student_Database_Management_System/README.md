@@ -15,9 +15,10 @@ Libraries used:
 
 ## Install
 1. git clone https://github.com/sazaniDeveloper/python-automation-scripts.git
-2. Configure environment variables in .env in your own system
-3. Go to main.py
-4. Run the project by pressing F5 or by typing python main.py in the terminal
+2. cd python-automation-scripts/Student_Database_Management_System
+3. Configure environment variables in .env in your own system
+4. Go to main.py
+5. Run the project by pressing F5 or by typing python main.py in the terminal
 
 ## Requirements
 - Python 3.x

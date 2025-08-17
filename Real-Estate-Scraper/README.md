@@ -41,7 +41,9 @@ Scrape multiple properties with filters.
 - zone: e.g., `Ali+Demi` (use `+` for multiple words)  
 - bedrooms: integer  
 - price_min / price_max: integers  
-- size_min / size_max: integers  
+- size_min / size_max: integers
+
+
 Example:
 /properties/type:rent/city:Tirana/zone:Ali+Demi/bedrooms:2/price_min:500/price_max:800/size_min:50/size_max:90
 

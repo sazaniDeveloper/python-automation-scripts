@@ -23,8 +23,8 @@ Libraries Used:
 - Microsoft Excel installed
 
 Run Without Docker: 
-pip install -r requirements.txt
-python manage.py runserver 8080
+- pip install -r requirements.txt
+- python manage.py runserver 8080
 
 ## Instructions
 1. Click on the Upload Button to select an Excel file. 

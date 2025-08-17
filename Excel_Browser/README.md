@@ -11,7 +11,7 @@ Libraries Used:
 
 ## Install
 1. git clone https://github.com/sazaniDeveloper/python-automation-scripts.git
-2. cd python-automation-scripts
+2. cd python-automation-scripts/Excel_Browser
 3. docker build -t excel_browser .
 4. docker run -p 8080:8080 excel_browser
 5. Run the API through localhost:8080

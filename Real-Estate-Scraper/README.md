@@ -16,7 +16,7 @@ Libraries:
 
 ## Install
 1. git clone https://github.com/sazaniDeveloper/python-automation-scripts.git
-2. cd python-automation-scripts
+2. cd python-automation-scripts/Real-Estate-Scraper
 3. docker build -t real-estate-scraper .
 4. docker run -p 8000:8000 real-estate-scraper
 5. Run the API through localhost:8000

@@ -17,14 +17,18 @@ Libraries used:
 - Python 3.x 
 - Git installed 
 - Windows system 
-## Example 
+## Example
 
-`This is a list of Wifi SSIDS: 
-HomeNetwork 
-Office_WiFi 
-CoffeeShop_Guest 
+```
+This is a list of Wifi SSIDS:
+HomeNetwork
+Office_WiFi
+CoffeeShop_Guest
 
-Which password of the Wi-Fi do you want to know? 
-HomeNetwork 
-Password: mySecurePass123 
-Do you want to check again? (y/n)`
+Which password of the Wi-Fi do you want to know?
+HomeNetwork
+
+Password: mySecurePass123
+
+Do you want to check again? (y/n)
+```

@@ -18,7 +18,7 @@ This repository contains multiple Python projects that demonstrate real-world ap
 Each project is organized into its own folder with a dedicated README.md file containing setup and usage instructions.
 
 ### Real Estate Scraper
-A FastAPI-based application that scrapes listings of properties using requests and BeautifulSoup.
+A FastAPI-based application that scrapes listings of properties using `requests` and `BeautifulSoup`.
 
 ### Student Database Management System
 A GUI-based application built in Tkinter that stores records of students in an SQL Server database.

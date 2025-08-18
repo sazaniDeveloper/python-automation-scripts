@@ -19,7 +19,7 @@ Libraries used:
 - Windows system 
 ## Example 
 
-This is a list of Wifi SSIDS: 
+`This is a list of Wifi SSIDS: 
 HomeNetwork 
 Office_WiFi 
 CoffeeShop_Guest 
@@ -27,4 +27,4 @@ CoffeeShop_Guest
 Which password of the Wi-Fi do you want to know? 
 HomeNetwork 
 Password: mySecurePass123 
-Do you want to check again? (y/n)
+Do you want to check again? (y/n)`

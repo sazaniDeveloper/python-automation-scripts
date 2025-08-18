@@ -18,6 +18,7 @@ Libraries used:
 - Git installed 
 - Windows system 
 ## Example 
+
 This is a list of Wifi SSIDS: 
 HomeNetwork 
 Office_WiFi 

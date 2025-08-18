@@ -54,6 +54,7 @@ Example:
 **/property**
 
 Scrape details of a single property by URL.  
+
 Example:
 ```
 property_ = Scrap_Estate("https://www.century21albania.com/property/4836239/japim-me-qira-apartament-2-1-post-parkimi-gold120722.html")

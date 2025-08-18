@@ -23,8 +23,8 @@ Run locally:
 - python web_scraping.py
    
 ## Instructions
-1. Open in the browser or API client the endpoint
-2. Replace the <keyword> in the endpoint
+1. Open in the browser or API client localhost:8080
+2. Replace the `<keyword>` in the endpoint
 
 ## Example
 [ 'Mero Baze: ‘Ndjellësi i fatkeqësive’ që i ngre topin për ‘fitore të rreme’ Edi Ramës',

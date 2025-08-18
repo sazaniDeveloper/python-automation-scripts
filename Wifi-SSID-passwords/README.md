@@ -2,6 +2,7 @@
 A python automation script that retrieves stored Wi-Fi SSID in a Windows System and displays the password of the SSID that the user has selected. 
 
 ⚠ Disclaimer: This script is only for educational purposes only and works on Windows OS. 
+
 Libraries used: 
 - subprocess
 - re

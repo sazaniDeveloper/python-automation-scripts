@@ -27,6 +27,8 @@ Run locally:
 2. Replace the `<keyword>` in the endpoint
 
 ## Example
+```
 [ 'Mero Baze: ‘Ndjellësi i fatkeqësive’ që i ngre topin për ‘fitore të rreme’ Edi Ramës',
   'Në ditën e 15 vjetorit të ndarjes nga jeta të albanologut Peter Prifti'
 ]
+```

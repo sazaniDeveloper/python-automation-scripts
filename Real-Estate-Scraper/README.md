@@ -27,7 +27,9 @@ Libraries:
 - Git installed
 
 Run Without Docker:
-pip install -r requirements.txt
+- pip install -r requirements.txt
+- uvicorn app:app --reload
+
 
 ## Instructions
 

@@ -51,6 +51,9 @@ Example:
 /properties/type:rent/city:Tirana/zone:Ali+Demi/bedrooms:2/price_min:500/price_max:800/size_min:50/size_max:90
 ```
 
+
+
+
 **/property**
 
 Scrape details of a single property by URL.  

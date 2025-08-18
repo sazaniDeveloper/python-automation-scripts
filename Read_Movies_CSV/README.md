@@ -1,4 +1,4 @@
-# Read Movies CSV
+# Read Movies CSV 🎥
 An automation script that extracts the release year of all the movies that you have listed in the Excel file and writes them in the column "Year". 
 
 Libraries used:

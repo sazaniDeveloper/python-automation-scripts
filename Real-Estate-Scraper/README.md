@@ -28,7 +28,7 @@ Libraries:
 
 Run Without Docker:
 - pip install -r requirements.txt
-- uvicorn app:app --reload
+- uvicorn main:app --reload
 
 
 ## Instructions

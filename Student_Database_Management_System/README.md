@@ -46,4 +46,6 @@ Enter the ID of the student to delete the record from the database.
 ## Screenshots
 
 <img width="755" height="465" alt="image" src="https://github.com/user-attachments/assets/d460aaab-67e2-4565-a1d4-0d6a391d8d1d" />
+<img width="307" height="299" alt="image" src="https://github.com/user-attachments/assets/331912b6-8269-43b5-866d-ef3ae134bde3" />
+
 
